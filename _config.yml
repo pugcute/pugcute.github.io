@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "pugcute.github.io"
+title                    : "all posts | pugcute"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "개발자 취업준비생"
+name                     :"https://github.com/pugcute"
 description              : "취업준비생의 기술 블로그"
 url                      : "https://pugcute.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
