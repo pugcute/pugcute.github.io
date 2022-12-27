@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "all posts | pugcute"
+title                    : "취업 준비 중인 개발자 지망생"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "https://github.com/pugcute"
+name                     : "`https://pugcute.github.io`"
 description              : "취업준비생의 기술 블로그"
 url                      : "https://pugcute.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "pugcute"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "SSAFY 7기 수료, 개발자 취업 준비생"
+  bio              : "SSAFY 7기 수료한 취업 준비생"
   location         : "South Korea"
   email            :
   links:
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/pugcute
+      # url: https://github.com/pugcute
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
