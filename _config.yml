@@ -94,8 +94,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-category_dir: category/
-tag_dir: tag/
+
 
 # Analytics
 analytics:
