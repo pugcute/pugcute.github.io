@@ -11,8 +11,7 @@
             📂 <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';">개</style> 
       </li>
       <li>
-      
-        <span class="nav__sub-title">HTML/CSS/JAVASCRIPT</span>
+      <span class="nav__sub-title">HTML/CSS/JAVASCRIPT</span>
           
             <ul>
         
