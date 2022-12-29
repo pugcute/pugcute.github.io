@@ -4,6 +4,14 @@ main:
     url: https://guiltless-hamster-9bf.notion.site/About-Mujong-6014529749cc48998d56e1cdd54a9ebc
   - title: "Category"
     url: /categories/
+  - title: "Search"
+    url: /search/
+
+docs:
+  - title: "목차"
+    children:
+      - title: "Category"
+        url: "/category/"
 #   - title: "Quick-Start Guide"
 #     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
