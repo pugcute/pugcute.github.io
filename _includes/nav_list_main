@@ -30,7 +30,7 @@
             <ul>
               {% for category in site.categories %}
                 {% if category[0] == "Algo" %}
-                  <li><a href="/categories/boj" class="">알고리즘 정리 ({{category[1].size}})</a></li>
+                  <li><a href="/categories/algo" class="">알고리즘 정리 ({{category[1].size}})</a></li>
               {% endif %}
             {% endfor %}
           </ul>
