@@ -16,11 +16,11 @@ minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: "ko-KR"
-title: "퍼그큐트"
+title: "pugcute"
 title_separator: "|"
 subtitle: "small positive action" # site tagline that appears below site title in masthead
 name: "pugcute"
-description: "퍼그큐트의 기술 블로그"
+description: "pugcute의 기술 블로그"
 url: "https://pugcute.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name: "pugcute"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/개복치.png"
   bio: "SSAFY 7기 수료한 취업 준비생"
   location: "South Korea"
   email:
