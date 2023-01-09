@@ -11,6 +11,28 @@
             📂 <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';">개</style> 
       </li>
       <li>
+        <span class="nav__sub-title">CS</span>
+        <ul>
+          {% for category in site.categories %}
+              {% if category[0] == "Dm" %}
+                  <li><a href="/categories/dm" class="">이산수학 ({{category[1].size}})</a></li>
+              {% endif %}
+          {% endfor %}
+        </ul>
+        <ul>
+            {% for category in site.categories %}
+              {% if category[0] == "Ds" %}
+                <li><a href="/categories/ds" class="">자료구조 ({{category[1].size}})</a></li>
+              {% endif %}
+            {% endfor %}
+        </ul>
+        <ul>
+          {% for category in site.categories %}
+            {% if category[0] == "Database" %}
+              <li><a href="/categories/db" class="">데이터베이스 ({{category[1].size}})</a></li>
+            {% endif %}
+          {% endfor %}
+      </ul>
         <span class="nav__sub-title">HTML/CSS/JAVASCRIPT</span>
           <ul>
             {% for category in site.categories %}
