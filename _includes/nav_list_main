@@ -21,7 +21,7 @@
         </ul>
         <ul>
             {% for category in site.categories %}
-              {% if category[0] == "Ds" %}
+              {% if category[0] == "자료구조" %}
                 <li><a href="/categories/ds" class="">자료구조 ({{category[1].size}})</a></li>
               {% endif %}
             {% endfor %}
